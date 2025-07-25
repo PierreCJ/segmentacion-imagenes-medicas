@@ -2,10 +2,10 @@
 
 Este proyecto fue una implementación práctica de un modelo de segmentación de hígado usando la librería [MONAI](https://monai.io/), basado en un tutorial de YouTube.
 
-🔬 **Objetivo:** Entrenar un modelo para diferenciar regiones del hígado en imágenes médicas.  
-🧠 **Modelo:** Red neuronal U-Net  
-📦 **Frameworks:** MONAI, PyTorch, Nibabel  
-📊 **Resultados:** Se logró visualizar las máscaras reales vs. las predichas, junto a las métricas de evaluación por época.
+- **Objetivo:** Entrenar un modelo para diferenciar regiones del hígado en imágenes médicas.  
+- **Modelo:** Red neuronal U-Net  
+- **Frameworks:** MONAI, PyTorch, Nibabel  
+- **Resultados:** Se logró visualizar las máscaras reales vs. las predichas, junto a las métricas de evaluación por época.
 
 ⚠️ Este proyecto fue una reproducción educativa con fines de aprendizaje. Aunque no fue creado desde cero, me permitió profundizar en el uso de herramientas como MONAI, la manipulación de datos médicos (.nii.gz), y el entrenamiento de modelos segmentadores.
 
